@@ -22,11 +22,15 @@ For later:
 
 ## Schematic
 ---
-![myMacropad schematic](/images/myMacropad_schematic.png)
+![myMacropad schematic](/Images/myMacropad_schematic.png)
 
 ## CAD
 ---
 
+
+## Firmware 
+---
+Uses QMK!
 
 ## BOM
 ---
