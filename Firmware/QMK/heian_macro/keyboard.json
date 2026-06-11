@@ -1,0 +1,60 @@
+{
+    "manufacturer": "Mina Yeh",
+    "keyboard_name": "heian_macro",
+    "maintainer": "helan-y",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["D0"],
+            ["D1"],
+            ["D2"],
+            ["D3"], 
+            ["D4"],
+            ["D5"],
+            ["D6"]
+        ]
+    },
+
+    "encoder": {
+        "rotary": [
+            {
+                "pins_a": ["D7"],
+                "pins_b": ["D8"],
+                "resolution": 2
+            },
+            {
+                "pins_a": ["D9"],
+                "pins_b": ["D10"],
+                "resolution": 2
+            }
+        ]
+    },
+
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 1, "y": 1},
+                {"matrix": [1, 0], "x": 2, "y": 1},
+                {"matrix": [2, 0], "x": 0, "y": 2},
+                {"matrix": [3, 0], "x": 1, "y": 0},
+                {"matrix": [4, 0], "x": 2, "y": 0},
+                {"matrix": [5, 0], "x": 1, "y": 2},
+                {"matrix": [6, 0], "x": 2, "y": 2}
+            ]
+        }
+    }
+}
