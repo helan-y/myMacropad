@@ -21,7 +21,8 @@ For later:
 ![myMacropad schematic](/Images/myMacropad_schematic.png)
 
 ## CAD
-
+![myMacropad case](/Images/myMacropad_case.png)
+![myMacropad uncovered](/Images/myMacropad_uncovered.png)
 
 ## Firmware 
 Uses QMK!
