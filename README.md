@@ -2,9 +2,9 @@
 
 ## Features!
 This mainly exists for easier volume and brightness control. 
-- Left Knob: brightness, press to toggle night light.
+- Left Knob: brightness, press to toggle F11.
 - Right Knob: volume, press to toggle mute.
-- Assorted Buttons: different macros.
+- Assorted Buttons: up, down, left, right, and space.
 
 ## PCB
 ![myMacropad PCB](/Images/myMacropad_pcb.png)
