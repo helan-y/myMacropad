@@ -15,7 +15,7 @@ Fairly simple, mildly infuriating. I still have no idea how positioning works in
 
 For later: 
 - I want to make a little logo to put on the silkscreen! As well as get a more unified way of marking my PCBs.
-- Probably clean up the wiring :\(. This is not my best work but honestly I don't think signal integrity matters that much here. 
+- Probably clean up the wiring :\(. This is not my best work but uh it'll live and honestly I don't think signal integrity matters that much here. 
 
 ## Schematic
 ![myMacropad schematic](/Images/myMacropad_schematic.png)
