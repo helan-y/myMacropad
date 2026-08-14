@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Mina Yeh](https://github.com/helan-y)
+* Keyboard Maintainer: [Mina Yeh](https://github.com/synotonos)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
